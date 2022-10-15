@@ -1,3 +1,7 @@
+[header]
+w=30
+h=20
+gfx=assets/tables/test.gfx.tbl
 [fg]
 row=03 03 03 03 
 row=03 00 00 03

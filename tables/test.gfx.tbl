@@ -1,8 +1,9 @@
-[transparent]
+[header]
 r=0
 g=0
 b=0
 a=255
+len=4
 [entry]
 tag=assets/img/empty.bmp
 [entry]

@@ -1,5 +1,4 @@
-[entry]
+[header]
+len=1
+[map]
 tag=assets/map/debug.map 
-w=30
-h=20
-
