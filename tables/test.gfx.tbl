@@ -1,0 +1,13 @@
+[general]
+tr=0
+tg=0
+tb=0
+ta=255
+[entry]
+tag=assets/img/empty.bmp
+[entry]
+tag=assets/img/filled.bmp
+[entry]
+tag=assets/img/player-1.bmp
+[entry]
+tag=assets/img/debug.bmp 
