@@ -2,7 +2,7 @@
 r=0
 g=0
 b=0
-ta=255
+a=255
 [entry]
 tag=assets/img/empty.bmp
 [entry]
