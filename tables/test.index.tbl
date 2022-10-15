@@ -1,4 +1,5 @@
 [header]
 len=1
-[map]
-tag=assets/map/debug.map 
+[entry]
+map_tag=assets/map/debug.map
+gfx_tag=assets/tables/test.gfx.tbl
