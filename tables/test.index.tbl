@@ -1,5 +1,7 @@
 [header]
 len=1
+initial=dbg1
 [entry]
+tag=dbg1
 map_tag=assets/map/debug.map
 gfx_tag=assets/tables/test.gfx.tbl
