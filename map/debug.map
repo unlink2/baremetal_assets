@@ -12,3 +12,8 @@ row=01 02 03 00
 [attr]
 row=00 00 00 00
 row=00 00 00 00
+[entity]
+x=2
+y=3
+kind=0
+opt=0
