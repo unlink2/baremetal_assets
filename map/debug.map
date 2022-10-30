@@ -18,3 +18,15 @@ y=3
 kind=0
 opt=0
 spawn=go
+[entity]
+x=32
+y=16
+kind=0
+opt=0
+spawn=go
+[entity]
+x=10
+y=10
+kind=0
+opt=0
+spawn=go
